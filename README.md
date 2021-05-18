@@ -18,4 +18,4 @@ Usage
 `npm start`
 
 
-sanya zdarov
+sanya zdarov net
